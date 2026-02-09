@@ -1,0 +1,2615 @@
+[
+  {
+    "name": "2048",
+    "image": "2048.jpg",
+    "url": "2048",
+    "new": false,
+    "credits": "Developed by Gabriele Cirulli",
+    "tags": [
+      "puzzle",
+      "singleplayer",
+      "strategy"
+    ],
+    "gamedesc": "Combine numbered tiles on a 4x4 grid to reach 2048! Swipe to merge matching tiles in this addictive puzzle game with simple controls and endless replayability."
+  },
+  {
+    "name": "Awesome Planes",
+    "image": "awesomeplanes.png",
+    "url": "Awesome-Planes",
+    "new": false,
+    "credits": "Developed by Kewlbox",
+    "tags": [
+      "shooter",
+      "action",
+      "singleplayer"
+    ],
+    "gamedesc": "Pilot powerful warplanes through intense aerial dogfights! Shoot down enemies, dodge fire, and upgrade your weapons in explosive sky combat."
+  },
+  {
+    "name": "Awesome Tanks",
+    "image": "awesometanks.jpg",
+    "url": "Awesome-Tanks",
+    "new": false,
+    "credits": "Developed by Kewlbox",
+    "tags": [
+      "shooter",
+      "action",
+      "singleplayer"
+    ],
+    "status": "buggy",
+    "gamedesc": "Command your tank through enemy-filled battlefields! Destroy rivals, upgrade armor and weapons, and become an unstoppable force in tactical tank warfare."
+  },
+  {
+    "name": "Sandboxels",
+    "image": "e.jpg",
+    "url": "Sandboxels",
+    "new": false,
+    "credits": "Developed by UBGHyper",
+    "tags": [
+      "sandbox",
+      "simulation",
+      "singleplayer"
+    ],
+    "status": "buggy",
+    "gamedesc": "Experiment with hundreds of elements in this creative physics sandbox! Mix fire, water, plants, acids, and more to create chain reactions and simulations."
+  },
+  {
+    "name": "Bloons TD 4",
+    "image": "btd4.png",
+    "url": "BTD-4",
+    "new": false,
+    "credits": "Developed by Ninja Kiwi",
+    "tags": [
+      "tower defense",
+      "strategy",
+      "singleplayer"
+    ],
+    "gamedesc": "Pop colorful balloons with strategic monkey tower placement! Upgrade defenses and use tactical thinking to conquer waves of bloons."
+  },
+  {
+    "name": "Bitlife",
+    "image": "bitlife.png",
+    "url": "Bitlife",
+    "new": false,
+    "credits": "Developed by Candywriter, LLC",
+    "tags": [
+      "simulation",
+      "singleplayer",
+      "text-based"
+    ],
+    "gamedesc": "Live a complete virtual life from birth to death! Make choices that shape your character's destiny in this interactive life simulator."
+  },
+  {
+    "name": "Blackjack",
+    "image": "blackjack.png",
+    "url": "Blackjack",
+    "new": false,
+    "credits": "Developed by various game developers",
+    "tags": [
+      "card",
+      "singleplayer",
+      "casino"
+    ],
+    "gamedesc": "Play the classic casino card game! Get as close to 21 as possible without going over. Hit, stand, double down, or split!"
+  },
+  {
+    "name": "Bloons TD 5",
+    "image": "btd5.png",
+    "url": "Bloons-TD-5",
+    "new": false,
+    "credits": "Developed by Ninja Kiwi",
+    "tags": [
+      "tower defense",
+      "strategy",
+      "singleplayer"
+    ],
+    "status": "buggy",
+    "gamedesc": "The ultimate balloon-popping tower defense! More towers, upgrades, and special abilities than ever before in this series masterpiece."
+  },
+  {
+    "name": "Line Rider 2",
+    "image": "linerider2.png",
+    "url": "Line-Rider-2",
+    "new": false,
+    "credits": "Developed by Bo\u0161tjan \u010cade\u017e",
+    "tags": [
+      "creative",
+      "physics",
+      "singleplayer"
+    ],
+    "gamedesc": "Draw custom tracks and watch a sledder ride your creation! Create simple paths or elaborate masterpieces with physics-based action."
+  },
+  {
+    "name": "Bob The Robber",
+    "image": "bobtherobber.png",
+    "url": "Bob-The-Robber",
+    "new": false,
+    "credits": "Developed by T. M. Games",
+    "tags": [
+      "stealth",
+      "puzzle",
+      "singleplayer"
+    ],
+    "gamedesc": "Become the ultimate burglar! Sneak past cameras and guards, crack safes, and steal loot in this charming stealth puzzle game."
+  },
+  {
+    "name": "Click The Wawas",
+    "image": "wawa.png",
+    "url": "Click-The-Wawas",
+    "new": false,
+    "credits": "Developed by Wawa Games",
+    "tags": [
+      "clicker",
+      "idle",
+      "singleplayer"
+    ],
+    "gamedesc": "Click to earn points and unlock upgrades! Purchase auto-clickers and multipliers in this addictive incremental game."
+  },
+  {
+    "name": "Cookie Clicker",
+    "image": "cookieclicker.jpg",
+    "url": "Cookie-Clicker",
+    "new": false,
+    "credits": "Developed by Julien Thiennot",
+    "tags": [
+      "idle",
+      "clicker",
+      "singleplayer"
+    ],
+    "status": "buggy",
+    "gamedesc": "Bake infinite cookies! Buy grandmas, farms, and factories to automate your cookie empire. Unlock achievements and secret upgrades!"
+  },
+  {
+    "name": "Doom",
+    "image": "doom.png",
+    "url": "Doom",
+    "new": false,
+    "credits": "Developed by id Software",
+    "tags": [
+      "shooter",
+      "fps",
+      "singleplayer"
+    ],
+    "status": "broken",
+    "gamedesc": "The legendary FPS that revolutionized gaming! Battle hellish demons on Mars with powerful weapons in fast-paced action."
+  },
+  {
+    "name": "Drive Mad",
+    "image": "logo.png",
+    "url": "Drive-Mad",
+    "new": false,
+    "credits": "Developed by S. J. Entertainment",
+    "tags": [
+      "driving",
+      "physics",
+      "singleplayer"
+    ],
+    "gamedesc": "Navigate obstacle courses in this physics-based driving challenge! Balance your vehicle carefully to avoid flips and reach the finish."
+  },
+  {
+    "name": "Duck Life 4",
+    "image": "ducklife4.png",
+    "url": "Duck-Life-4",
+    "new": false,
+    "credits": "Developed by MoFunZone",
+    "tags": [
+      "simulation",
+      "adventure",
+      "singleplayer"
+    ],
+    "gamedesc": "Train your duck to become a champion racer! Improve abilities through mini-games, compete in races, and explore new areas."
+  },
+  {
+    "name": "Eggy Car",
+    "image": "eggycar.png",
+    "url": "Eggy-Car",
+    "new": false,
+    "credits": "Developed by M. S. Studio",
+    "tags": [
+      "driving",
+      "physics",
+      "singleplayer"
+    ],
+    "gamedesc": "Drive with a fragile egg! Navigate hills without letting it fall or crack. Perfect balance between speed and caution required!"
+  },
+  {
+    "name": "Block Blast",
+    "image": "block-blast.png",
+    "url": "Block-Blast",
+    "new": false,
+    "credits": "Developed by M. S. Studio",
+    "tags": [
+      "puzzle",
+      "arcade",
+      "singleplayer"
+    ],
+    "gamedesc": "Clear blocks and create explosive combos! Place blocks strategically to form lines and set up massive chain reactions."
+  },
+  {
+    "name": "Basket Random",
+    "image": "basketrandom.png",
+    "url": "Basket-Random",
+    "new": false,
+    "credits": "Developed by M. S. Studio",
+    "tags": [
+      "sports",
+      "arcade",
+      "multiplayer"
+    ],
+    "gamedesc": "Wacky basketball with ragdoll physics! One-button controls in constantly changing environments. Perfect for quick matches!"
+  },
+  {
+    "name": "Cursed Treasure 1",
+    "image": "cursedtreasure1.png",
+    "url": "Cursed-Treasure",
+    "new": false,
+    "credits": "Developed by IriySoft",
+    "tags": [
+      "tower defense",
+      "strategy",
+      "singleplayer"
+    ],
+    "gamedesc": "Defend cursed gems from heroes! Build crypts, demon dens, and orc towers to create an impenetrable evil fortress."
+  },
+  {
+    "name": "Cursed Treasure 2",
+    "image": "cursedtreasure2.png",
+    "url": "Cursed-Treasure-2",
+    "new": false,
+    "credits": "Developed by IriySoft",
+    "tags": [
+      "tower defense",
+      "strategy",
+      "singleplayer"
+    ],
+    "gamedesc": "Enhanced evil empire defense! Improved graphics, new towers, and deeper strategy. Evil triumphs again!"
+  },
+  {
+    "name": "Crossing the Pit",
+    "image": "crossingthepit.png",
+    "url": "Crossing-The-Pit",
+    "new": false,
+    "credits": "Developed by PuffBallsUnited",
+    "tags": [
+      "adventure",
+      "puzzle",
+      "singleplayer"
+    ],
+    "gamedesc": "Navigate a treacherous pit filled with deadly obstacles! Choose your path wisely and time movements perfectly."
+  },
+  {
+    "name": "Breaking The Bank",
+    "image": "breakingthebank.png",
+    "url": "Breaking-The-Bank",
+    "new": false,
+    "credits": "Developed by PuffBallsUnited",
+    "tags": [
+      "adventure",
+      "comedy",
+      "singleplayer"
+    ],
+    "gamedesc": "Henry Stickmin's first heist! Choose methods to break into the bank, each leading to hilarious outcomes."
+  },
+  {
+    "name": "Bubble Tanks TD 1",
+    "image": "bubbletanks1.png",
+    "url": "Bubble-Tanks-TD-1",
+    "new": false,
+    "credits": "Developed by Hero Interactive",
+    "tags": [
+      "tower defense",
+      "strategy",
+      "singleplayer"
+    ],
+    "gamedesc": "Defend against bubble enemies! Build and upgrade bubble-powered towers in this unique minimalist tower defense."
+  },
+  {
+    "name": "Bubble Tanks TD 2",
+    "image": "bubble-tanks-2.jpg",
+    "url": "Bubble-Tanks-TD-2",
+    "new": false,
+    "credits": "Developed by Hero Interactive",
+    "tags": [
+      "tower defense",
+      "strategy",
+      "singleplayer"
+    ],
+    "gamedesc": "More bubble battles with advanced towers and tougher enemies! Enhanced graphics and deeper mechanics."
+  },
+  {
+    "name": "Bubble Tanks TD Arena",
+    "image": "bubbletanksarena.png",
+    "url": "Bubble-Tanks-Arena",
+    "new": false,
+    "credits": "Developed by Hero Interactive",
+    "tags": [
+      "shooter",
+      "action",
+      "singleplayer"
+    ],
+    "gamedesc": "Control your own bubble tank! Battle enemies, grow larger, and customize with weapons in arena combat."
+  },
+  {
+    "name": "Gun Mayham 2",
+    "image": "gunmayham2.png",
+    "url": "Gun-Mayham-2",
+    "new": false,
+    "credits": "Developed by J. A. Games",
+    "tags": [
+      "shooter",
+      "action",
+      "multiplayer"
+    ],
+    "gamedesc": "Chaotic platform battles! Fight AI or friends with various weapons in destructible environments."
+  },
+  {
+    "name": "Gun Mayham Redux",
+    "image": "gunmayhamredux.png",
+    "url": "Gun-Mayham-Redux",
+    "new": false,
+    "credits": "Developed by J. A. Games",
+    "tags": [
+      "shooter",
+      "action",
+      "multiplayer"
+    ],
+    "gamedesc": "Enhanced Gun Mayham with improved graphics! Campaign missions and multiplayer with updated mechanics."
+  },
+  {
+    "name": "Happy Wheels",
+    "image": "happywheels.png",
+    "url": "Happy-Wheels",
+    "new": false,
+    "credits": "Developed by Jim Bonacci",
+    "tags": [
+      "physics",
+      "ragdoll",
+      "singleplayer"
+    ],
+    "gamedesc": "Hilariously brutal physics platformer! Navigate deadly obstacle courses with realistic ragdoll physics and dark comedy."
+  },
+  {
+    "name": "Idle Mining Empire",
+    "image": "idleminingempire.png",
+    "url": "Idle-Mining-Empire",
+    "new": false,
+    "credits": "Developed by Dark Blue Games",
+    "tags": [
+      "idle",
+      "simulation",
+      "singleplayer"
+    ],
+    "gamedesc": "Build a mining empire! Dig resources, hire miners, upgrade equipment, and watch profits grow even when offline."
+  },
+  {
+    "name": "Among Us Online",
+    "image": "Sus.jpg",
+    "url": "AmongUs-Online",
+    "new": false,
+    "credits": "Developed by TimMcool",
+    "tags": [
+      "multiplayer",
+      "social-deduction",
+      "strategy"
+    ],
+    "gamedesc": "Fan-made Among Us! Complete tasks as crewmate or deceive as impostor. Social deduction at its finest!"
+  },
+  {
+    "name": "Among Us Online Sever 2",
+    "image": "Sus.jpg",
+    "url": "AmongUs-Online-2",
+    "new": false,
+    "credits": "Developed by TimMcool",
+    "tags": [
+      "multiplayer",
+      "social-deduction",
+      "strategy"
+    ],
+    "gamedesc": "Alternative Among Us server! Same thrilling gameplay with different connectivity options."
+  },
+  {
+    "name": "Iron Snout",
+    "image": "ironsnout.png",
+    "url": "Iron-Snout",
+    "new": false,
+    "credits": "Developed by SnoutUp",
+    "tags": [
+      "fighting",
+      "action",
+      "singleplayer"
+    ],
+    "gamedesc": "Kung-fu fighting pig vs wolves! Use acrobatic moves and quick reflexes. Simple controls, deep combos!"
+  },
+  {
+    "name": "Jelly Truck",
+    "image": "jellytruck.jpg",
+    "url": "Jelly-Truck",
+    "new": false,
+    "credits": "Developed by Gametornado",
+    "tags": [
+      "driving",
+      "physics",
+      "singleplayer"
+    ],
+    "gamedesc": "Drive a wobbly jelly truck! Navigate squishy physics-based obstacles and bounce to the finish line."
+  },
+  {
+    "name": "Kingdom Rush",
+    "image": "kingdomrush.png",
+    "url": "Kingdom-Rush",
+    "new": false,
+    "credits": "Developed by Ironhide Game Studio",
+    "tags": [
+      "tower defense",
+      "strategy",
+      "singleplayer"
+    ],
+    "gamedesc": "Legendary tower defense! Build towers, command heroes, and use abilities to defend your kingdom with deep strategy."
+  },
+  {
+    "name": "Learn to Fly 2",
+    "image": "learntofly2.jpg",
+    "url": "Learn-To-Fly-2",
+    "new": false,
+    "credits": "Developed by Light Bringer Games",
+    "tags": [
+      "arcade",
+      "launcher",
+      "singleplayer"
+    ],
+    "gamedesc": "Help a penguin achieve flight! Glide, bounce, collect coins, and purchase upgrades to fly further."
+  },
+  {
+    "name": "Learn to Fly 3",
+    "image": "Learntofly3.jpg",
+    "url": "Learn-To-Fly-3",
+    "new": false,
+    "credits": "Developed by Light Bringer Games",
+    "tags": [
+      "arcade",
+      "launcher",
+      "singleplayer"
+    ],
+    "gamedesc": "Ultimate penguin flight! Build custom machines, unlock parts, and explore story mode with endless possibilities."
+  },
+  {
+    "name": "Motherload",
+    "image": "motherload.jpg",
+    "url": "Motherload",
+    "new": false,
+    "credits": "Developed by XGen Studios",
+    "tags": [
+      "mining",
+      "arcade",
+      "singleplayer"
+    ],
+    "gamedesc": "Dig deep into Mars for minerals! Upgrade your pod, manage fuel, and discover underground secrets."
+  },
+  {
+    "name": "MotoX2M 2",
+    "image": "moto3xm2.png",
+    "url": "Moto3XM-2",
+    "new": false,
+    "credits": "Developed by Madpuffers",
+    "tags": [
+      "racing",
+      "motorcycle",
+      "singleplayer"
+    ],
+    "gamedesc": "Motorcycle stunt racing! Navigate obstacle-filled tracks with flips and precise control."
+  },
+  {
+    "name": "MotoX3M 3",
+    "image": "moto3xm3.png",
+    "url": "Moto3XM-3",
+    "new": false,
+    "credits": "Developed by Madpuffers",
+    "tags": [
+      "racing",
+      "motorcycle",
+      "singleplayer"
+    ],
+    "gamedesc": "Third installment with new tracks! More creative obstacles and adrenaline-pumping stunts."
+  },
+  {
+    "name": "MotoX3M",
+    "image": "moto3xm.png",
+    "url": "Moto3XM",
+    "new": false,
+    "credits": "Developed by Madpuffers",
+    "tags": [
+      "racing",
+      "motorcycle",
+      "singleplayer"
+    ],
+    "gamedesc": "Original motorcycle stunt racer! Explosive courses, death-defying stunts, and time trials."
+  },
+  {
+    "name": "Poly Track New",
+    "image": "polytrack.jpg",
+    "url": "Polytrack-New",
+    "new": false,
+    "credits": "Developed by Kodub",
+    "tags": [
+      "racing",
+      "low-poly",
+      "singleplayer"
+    ],
+    "gamedesc": "Race on colorful low-poly tracks! Drift, jump, and speed through vibrant stylized courses."
+  },
+  {
+    "name": "Poly Track Modded",
+    "image": "polytrackmodded.png",
+    "url": "Polytrack-Modded",
+    "new": false,
+    "credits": "Developed by Kodub",
+    "tags": [
+      "racing",
+      "low-poly",
+      "singleplayer"
+    ],
+    "gamedesc": "Modified Poly Track with custom tracks and enhanced features! New cars and abilities."
+  },
+  {
+    "name": "Poly Track Old",
+    "image": "polytrack-old.jpg",
+    "url": "Polytrack-Old",
+    "new": false,
+    "credits": "Developed by Kodub",
+    "tags": [
+      "racing",
+      "low-poly",
+      "singleplayer"
+    ],
+    "gamedesc": "Classic Poly Track! Original low-poly racing with nostalgic gameplay."
+  },
+  {
+    "name": "Portal Flash",
+    "image": "portalflash.jpg",
+    "url": "Portal-Flash",
+    "new": false,
+    "credits": "Developed by We Create Stuff",
+    "tags": [
+      "puzzle",
+      "platformer",
+      "singleplayer"
+    ],
+    "gamedesc": "2D Portal adaptation! Use portals to solve physics puzzles in test chambers with mind-bending mechanics."
+  },
+  {
+    "name": "Raft Wars",
+    "image": "raftwars.png",
+    "url": "Raft-Wars",
+    "new": false,
+    "credits": "Developed by Martijn Kunst",
+    "tags": [
+      "shooter",
+      "strategy",
+      "singleplayer"
+    ],
+    "gamedesc": "Defend your treasure! Turn-based shooting with strategic angles. Upgrade weapons and recruit crew."
+  },
+  {
+    "name": "Raft Wars 2",
+    "image": "raftwars2.png",
+    "url": "Raft-Wars-2",
+    "new": false,
+    "credits": "Developed by Martijn Kunst",
+    "tags": [
+      "shooter",
+      "strategy",
+      "singleplayer"
+    ],
+    "gamedesc": "Continue defending treasure with new enemies and locations! Enhanced turn-based shooting action."
+  },
+  {
+    "name": "Retro Bowl",
+    "image": "retrobowl.jpg",
+    "url": "Retro-Bowl",
+    "new": false,
+    "credits": "Developed by New Star Games",
+    "tags": [
+      "sports",
+      "football",
+      "singleplayer"
+    ],
+    "gamedesc": "Manage and play American football! Call plays, pass to receivers, and win championships in retro style."
+  },
+  {
+    "name": "Run 3",
+    "image": "run3.png",
+    "url": "Run-3",
+    "new": false,
+    "credits": "Developed by Player_03",
+    "tags": [
+      "platformer",
+      "runner",
+      "singleplayer"
+    ],
+    "status": "broken",
+    "gamedesc": "Infinite tunnel running! Multiple characters, hundreds of levels, and gravity-defying gameplay."
+  },
+  {
+    "name": "Slope",
+    "image": "slope.jpg",
+    "url": "Slope",
+    "new": false,
+    "credits": "Developed by Rob Kay",
+    "tags": [
+      "runner",
+      "arcade",
+      "singleplayer"
+    ],
+    "gamedesc": "Race down an infinite slope at breakneck speed! Dodge obstacles in this intensely addictive endless runner."
+  },
+  {
+    "name": "Snow Rider 3D",
+    "image": "snow-rider-3d.jpg",
+    "url": "Snow-Rider-3D",
+    "new": false,
+    "credits": "Developed by Ashima Prabhakar",
+    "tags": [
+      "racing",
+      "3d",
+      "singleplayer"
+    ],
+    "gamedesc": "Sled down snowy mountains! Dodge obstacles, collect presents, and enjoy winter scenery."
+  },
+  {
+    "name": "Submersible",
+    "image": "submersible.png",
+    "url": "Submersible",
+    "new": false,
+    "credits": "Developed by unknown",
+    "tags": [
+      "adventure",
+      "exploration",
+      "singleplayer"
+    ],
+    "gamedesc": "Explore ocean depths in your submarine! Navigate underwater, discover secrets, and manage resources."
+  },
+  {
+    "name": "Super Smash Flash",
+    "image": "super-smash-flash.jpg",
+    "url": "Super-Smash-Flash",
+    "new": false,
+    "credits": "Developed by McLeodGaming",
+    "tags": [
+      "fighting",
+      "multiplayer",
+      "platformer"
+    ],
+    "status": "buggy",
+    "gamedesc": "Fan-made Smash Bros! Platform fighting with characters from multiple franchises."
+  },
+  {
+    "name": "Swords & Souls",
+    "image": "swordsandsouls.jpg",
+    "url": "Swords-And-Souls",
+    "new": false,
+    "credits": "Developed by SoulGame Studio",
+    "tags": [
+      "rpg",
+      "training",
+      "singleplayer"
+    ],
+    "gamedesc": "Train your warrior and battle in arenas! Mini-games improve stats while you craft equipment and fight."
+  },
+  {
+    "name": "Tanuki Sunset",
+    "image": "tanukisunset.jpg",
+    "url": "Tanuki-Sunset",
+    "new": false,
+    "credits": "Developed by Squid Squad",
+    "tags": [
+      "racing",
+      "skateboarding",
+      "singleplayer"
+    ],
+    "gamedesc": "Skateboard down sunset roads as a rad raccoon! Drift, dodge obstacles, and enjoy vaporwave vibes."
+  },
+  {
+    "name": "There Is No Game",
+    "image": "thereisnogame.jpg",
+    "url": "There-Is-No-Game",
+    "new": false,
+    "credits": "Developed by Pascal Cammisotto",
+    "tags": [
+      "puzzle",
+      "comedy",
+      "singleplayer"
+    ],
+    "gamedesc": "A game insisting there's no game! Break the fourth wall with hilarious meta-puzzles and uncooperative narration."
+  },
+  {
+    "name": "Minecraft Classic Online",
+    "image": "minecraft.jpg",
+    "url": "Minecraft-Online",
+    "new": false,
+    "credits": "Developed by Mojang",
+    "tags": [
+      "sandbox",
+      "building",
+      "multiplayer"
+    ],
+    "status": "buggy",
+    "gamedesc": "Classic Minecraft in browser! Unlimited blocks, creative building, and multiplayer. Original sandbox experience!"
+  },
+  {
+    "name": "Eaglercraft",
+    "image": "eaglercraft.jpg",
+    "url": "Eaglercraft",
+    "new": false,
+    "credits": "Developed by Mojang",
+    "tags": [
+      "sandbox",
+      "survival",
+      "multiplayer"
+    ],
+    "gamedesc": "Browser-based Minecraft! Survive, build, and explore with multiplayer support. Full experience in your browser!"
+  },
+  {
+    "name": "Chatroom",
+    "image": "chatroom.png",
+    "url": "Chat-Room",
+    "new": false,
+    "credits": "Developed by unknown",
+    "tags": [
+      "social",
+      "multiplayer",
+      "communication"
+    ],
+    "gamedesc": "Connect and chat with players online! Join conversations and make friends in this browser chatroom."
+  },
+  {
+    "name": "Hobo 1",
+    "image": "hobo1.png",
+    "url": "Hobo-1",
+    "new": false,
+    "credits": "Developed by ArmorGames",
+    "tags": [
+      "fighting",
+      "action",
+      "singleplayer"
+    ],
+    "gamedesc": "Fight for survival as a hobo! Bizarre combat moves and dark humor in this unconventional beat 'em up."
+  },
+  {
+    "name": "Hobo 2",
+    "image": "hobo2.png",
+    "url": "Hobo-2",
+    "new": false,
+    "credits": "Developed by ArmorGames",
+    "tags": [
+      "fighting",
+      "action",
+      "singleplayer"
+    ],
+    "gamedesc": "Prison brawling! Fight guards and inmates with gross special moves in confined spaces."
+  },
+  {
+    "name": "Hobo 3",
+    "image": "hobo3.png",
+    "url": "Hobo-3",
+    "new": false,
+    "credits": "Developed by ArmorGames",
+    "tags": [
+      "fighting",
+      "action",
+      "singleplayer"
+    ],
+    "gamedesc": "More bizarre fighting scenarios! Expanded move list with signature crude combat."
+  },
+  {
+    "name": "Hobo 4",
+    "image": "hobo4.png",
+    "url": "Hobo-4",
+    "new": false,
+    "credits": "Developed by ArmorGames",
+    "tags": [
+      "fighting",
+      "action",
+      "singleplayer"
+    ],
+    "gamedesc": "Face absurd enemies! More levels, attacks, and outrageous situations."
+  },
+  {
+    "name": "Hobo 5",
+    "image": "hobo5.png",
+    "url": "Hobo-5",
+    "new": false,
+    "credits": "Developed by ArmorGames",
+    "tags": [
+      "fighting",
+      "action",
+      "singleplayer"
+    ],
+    "gamedesc": "Space hobo adventure! Crude combat meets alien enemies in outer space."
+  },
+  {
+    "name": "Hobo 6",
+    "image": "hobo6.png",
+    "url": "Hobo-6",
+    "new": false,
+    "credits": "Developed by ArmorGames",
+    "tags": [
+      "fighting",
+      "action",
+      "singleplayer"
+    ],
+    "gamedesc": "Continued hobo battles! More abilities and new scenarios with unique humor."
+  },
+  {
+    "name": "Hobo 7",
+    "image": "hobo7.png",
+    "url": "Hobo-7",
+    "new": false,
+    "credits": "Developed by ArmorGames",
+    "tags": [
+      "fighting",
+      "action",
+      "singleplayer"
+    ],
+    "gamedesc": "Final hobo chapter! Epic battles and outrageous finishing moves conclude the series."
+  },
+  {
+    "name": "Riddle School 1",
+    "image": "riddleschool1.png",
+    "url": "Riddle-School-1",
+    "new": false,
+    "credits": "Developed by Jonochrome",
+    "tags": [
+      "adventure",
+      "puzzle",
+      "singleplayer"
+    ],
+    "gamedesc": "Escape from school! Point-and-click puzzles with pixel graphics and clever design."
+  },
+  {
+    "name": "Riddle School 2",
+    "image": "riddleschool2.png",
+    "url": "Riddle-School-2",
+    "new": false,
+    "credits": "Developed by Jonochrome",
+    "tags": [
+      "adventure",
+      "puzzle",
+      "singleplayer"
+    ],
+    "gamedesc": "Another school escape! More puzzles and locations in continued point-and-click adventure."
+  },
+  {
+    "name": "Riddle School 3",
+    "image": "riddleschool3.png",
+    "url": "Riddle-School-3",
+    "new": false,
+    "credits": "Developed by Jonochrome",
+    "tags": [
+      "adventure",
+      "puzzle",
+      "singleplayer"
+    ],
+    "gamedesc": "Escape continues! Explore school, interact with characters, and solve clever puzzles."
+  },
+  {
+    "name": "Riddle School 4",
+    "image": "riddleschool4.png",
+    "url": "Riddle-School-4",
+    "new": false,
+    "credits": "Developed by Jonochrome",
+    "tags": [
+      "adventure",
+      "puzzle",
+      "singleplayer"
+    ],
+    "gamedesc": "More puzzle-solving escapades! Creative challenges and humorous situations."
+  },
+  {
+    "name": "Riddle School 5",
+    "image": "riddleschool5.png",
+    "url": "Riddle-School-5",
+    "new": false,
+    "credits": "Developed by Jonochrome",
+    "tags": [
+      "adventure",
+      "puzzle",
+      "singleplayer"
+    ],
+    "gamedesc": "Epic series conclusion! Bigger puzzles, deeper story, and ultimate escape adventure."
+  },
+  {
+    "name": "Riddle School Transfer",
+    "image": "riddleschooltransfer.png",
+    "url": "Riddle-School-Transfer",
+    "new": false,
+    "credits": "Developed by Jonochrome",
+    "tags": [
+      "adventure",
+      "puzzle",
+      "singleplayer"
+    ],
+    "gamedesc": "Spin-off with new protagonist! Same puzzle-solving in different school setting."
+  },
+  {
+    "name": "Riddle School Transfer 2",
+    "image": "riddleschooltransfer2.png",
+    "url": "Riddle-School-Transfer-2",
+    "new": false,
+    "credits": "Developed by Jonochrome",
+    "tags": [
+      "adventure",
+      "puzzle",
+      "singleplayer"
+    ],
+    "gamedesc": "Transfer storyline continues! More puzzles from different perspective."
+  },
+  {
+    "name": "Sift Heads 1",
+    "image": "siftheads1.png",
+    "url": "Sift-Heads-1",
+    "new": false,
+    "credits": "Developed by Pyrozen",
+    "tags": [
+      "shooter",
+      "action",
+      "singleplayer"
+    ],
+    "gamedesc": "Professional hitman stick figure! Complete assassination contracts with precision. Series begins!"
+  },
+  {
+    "name": "Sift Heads 2",
+    "image": "siftheads2.png",
+    "url": "Sift-Heads-2",
+    "new": false,
+    "credits": "Developed by Pyrozen",
+    "tags": [
+      "shooter",
+      "action",
+      "singleplayer"
+    ],
+    "gamedesc": "More assassinations! Improved weapons, new targets, enhanced gameplay."
+  },
+  {
+    "name": "Sift Heads 3",
+    "image": "siftheads3.png",
+    "url": "Sift-Heads-3",
+    "new": false,
+    "credits": "Developed by Pyrozen",
+    "tags": [
+      "shooter",
+      "action",
+      "singleplayer"
+    ],
+    "gamedesc": "Trilogy conclusion! Epic missions, more weapons, cinematic stick figure action."
+  },
+  {
+    "name": "Sift Heads 4",
+    "image": "siftheads4.png",
+    "url": "Sift-Heads-4",
+    "new": false,
+    "credits": "Developed by Pyrozen",
+    "tags": [
+      "shooter",
+      "action",
+      "singleplayer"
+    ],
+    "gamedesc": "Beyond the trilogy! New storylines and expanded assassination gameplay."
+  },
+  {
+    "name": "Sift Heads 5",
+    "image": "siftheads5.png",
+    "url": "Sift-Heads-5",
+    "new": false,
+    "credits": "Developed by Pyrozen",
+    "tags": [
+      "shooter",
+      "action",
+      "singleplayer"
+    ],
+    "gamedesc": "Multiple characters and varied missions! Series evolution continues."
+  },
+  {
+    "name": "Deep Sleep 1",
+    "image": "deepsleep1.png",
+    "url": "Deep-Sleep-1",
+    "new": false,
+    "credits": "Developed by Armour Games",
+    "tags": [
+      "horror",
+      "adventure",
+      "singleplayer"
+    ],
+    "gamedesc": "Navigate nightmarish dreamscapes! Horror point-and-click with psychological elements and genuine scares."
+  },
+  {
+    "name": "Deep Sleep 2",
+    "image": "deepsleep2.png",
+    "url": "Deep-Sleep-2",
+    "new": false,
+    "credits": "Developed by Armour Games",
+    "tags": [
+      "horror",
+      "adventure",
+      "singleplayer"
+    ],
+    "gamedesc": "Deeper into nightmares! More disturbing imagery, harder puzzles, increased tension."
+  },
+  {
+    "name": "Deep Sleep 3",
+    "image": "deepsleep3.png",
+    "url": "Deep-Sleep-3",
+    "new": false,
+    "credits": "Developed by Armour Games",
+    "tags": [
+      "horror",
+      "adventure",
+      "singleplayer"
+    ],
+    "gamedesc": "Nightmare trilogy finale! Confront fears and escape deep sleep in atmospheric horror."
+  },
+  {
+    "name": "Dont Escape 1",
+    "image": "dontescape1.png",
+    "url": "Dont-Escape-1",
+    "new": false,
+    "credits": "Developed by Armour Games",
+    "tags": [
+      "horror",
+      "puzzle",
+      "singleplayer"
+    ],
+    "gamedesc": "Lock yourself in! Reverse-escape where you prevent transformation. Unique horror puzzle concept."
+  },
+  {
+    "name": "Dont Escape 2",
+    "image": "dontescape2.png",
+    "url": "Dont-Escape-2",
+    "new": false,
+    "credits": "Developed by Armour Games",
+    "tags": [
+      "horror",
+      "survival",
+      "singleplayer"
+    ],
+    "gamedesc": "Zombie survival! Secure shelter before nightfall. Strategic horror with resource management."
+  },
+  {
+    "name": "Dont Escape 3",
+    "image": "dontescape3.png",
+    "url": "Dont-Escape-3",
+    "new": false,
+    "credits": "Developed by Armour Games",
+    "tags": [
+      "horror",
+      "adventure",
+      "singleplayer"
+    ],
+    "gamedesc": "Space station horror! Investigate mysteries while managing time and resources."
+  },
+  {
+    "name": "Burrito Bison",
+    "image": "burritobison.png",
+    "url": "Burrito-Bison",
+    "new": false,
+    "credits": "Developed by Juicy Beast",
+    "tags": [
+      "arcade",
+      "launcher",
+      "singleplayer"
+    ],
+    "gamedesc": "Launch wrestler through candy land! Bounce off gummy bears with addictive upgrades."
+  },
+  {
+    "name": "Burrito Bison Revenge",
+    "image": "burritobisonrevenge.png",
+    "url": "Burrito-Bison-Revenge",
+    "new": false,
+    "credits": "Developed by Juicy Beast",
+    "tags": [
+      "arcade",
+      "launcher",
+      "singleplayer"
+    ],
+    "gamedesc": "Revenge bouncing! More upgrades and gummy bears in enhanced launcher action."
+  },
+  {
+    "name": "Burrito Bison 3",
+    "image": "burrito-bison-3.png",
+    "url": "Burrito-Bison-3",
+    "new": false,
+    "credits": "Developed by Juicy Beast",
+    "tags": [
+      "arcade",
+      "launcher",
+      "singleplayer"
+    ],
+    "gamedesc": "Epic launcher trilogy finale! Multiple characters, new abilities, biggest candy land yet."
+  },
+  {
+    "name": "Zombotron",
+    "image": "zombotron.png",
+    "url": "Zombotron",
+    "new": false,
+    "credits": "Developed by Ant Karlov",
+    "tags": [
+      "platformer",
+      "shooter",
+      "singleplayer"
+    ],
+    "gamedesc": "Fight zombies and robots on alien planet! Physics-based shooting with atmospheric exploration."
+  },
+  {
+    "name": "Zombotron 2",
+    "image": "zombotron2.png",
+    "url": "Zombotron-2",
+    "new": false,
+    "credits": "Developed by Ant Karlov",
+    "tags": [
+      "platformer",
+      "shooter",
+      "singleplayer"
+    ],
+    "gamedesc": "Continue alien zombie adventure! More weapons, bigger levels, enhanced physics."
+  },
+  {
+    "name": "The Impossible Quiz",
+    "image": "theimpossiblequiz.png",
+    "url": "The-Impossible-Quiz-Deluxe",
+    "new": false,
+    "credits": "Developed by Slap-me-do",
+    "tags": [
+      "quiz",
+      "puzzle",
+      "singleplayer"
+    ],
+    "gamedesc": "Impossibly tricky questions! Think outside the box with logic and absurdity. Challenging and funny!"
+  },
+  {
+    "name": "The Impossible Quiz 2",
+    "image": "theimpossiblequiz2.png",
+    "url": "The-Impossible-Quiz-2",
+    "new": false,
+    "credits": "Developed by Slap-me-do",
+    "tags": [
+      "quiz",
+      "puzzle",
+      "singleplayer"
+    ],
+    "gamedesc": "More impossible questions! New tricks, harder challenges, same brain-melting formula."
+  },
+  {
+    "name": "Strikeforce Kitty 2",
+    "image": "strikeforcekitty2.png",
+    "url": "Strikeforce-Kitty-2",
+    "new": false,
+    "credits": "Developed by Juicy Beast",
+    "tags": [
+      "runner",
+      "action",
+      "singleplayer"
+    ],
+    "gamedesc": "Cat squad runner! Collect costumes for abilities, defeat enemies, rescue princess."
+  },
+  {
+    "name": "Strikeforce Kitty",
+    "image": "strikeforcekitty.png",
+    "url": "Strikeforce-Kitty",
+    "new": false,
+    "credits": "Developed by Juicy Beast",
+    "tags": [
+      "runner",
+      "action",
+      "singleplayer"
+    ],
+    "gamedesc": "Original kitten rescue! Build team, equip costumes, run through enemies with RPG progression."
+  },
+  {
+    "name": "Strikeforce Heroes",
+    "image": "strikeforceheroes.png",
+    "url": "Strikeforce-Heroes",
+    "new": false,
+    "credits": "Developed by Juicy Beast",
+    "tags": [
+      "shooter",
+      "action",
+      "singleplayer"
+    ],
+    "gamedesc": "Side-scrolling shooter with RPG! Choose classes, unlock weapons, deep customization."
+  },
+  {
+    "name": "Stealing the Diamond",
+    "image": "stealingthediamond.png",
+    "url": "Stealing-The-Diamond",
+    "new": false,
+    "credits": "Developed by Juicy Beast",
+    "tags": [
+      "adventure",
+      "comedy",
+      "singleplayer"
+    ],
+    "gamedesc": "Henry Stickmin heist! Choose methods to steal diamond with hilarious outcomes."
+  },
+  {
+    "name": "Papas Wingeria",
+    "image": "papaswingeria.png",
+    "url": "Papas-Wing",
+    "new": false,
+    "credits": "Developed by Juicy Beast",
+    "tags": [
+      "simulation",
+      "time-management",
+      "singleplayer"
+    ],
+    "gamedesc": "Run chicken wing restaurant! Take orders, fry wings, serve customers quickly."
+  },
+  {
+    "name": "Papas Pancakeria",
+    "image": "papaspancakeria.png",
+    "url": "Papas-PnCk",
+    "new": false,
+    "credits": "Developed by Juicy Beast",
+    "tags": [
+      "simulation",
+      "time-management",
+      "singleplayer"
+    ],
+    "gamedesc": "Flip pancakes for hungry customers! Cook perfectly and add toppings in breakfast service."
+  },
+  {
+    "name": "Papas Pasteria",
+    "image": "papaspasteria.png",
+    "url": "Papas-Pasta",
+    "new": false,
+    "credits": "Developed by Juicy Beast",
+    "tags": [
+      "simulation",
+      "time-management",
+      "singleplayer"
+    ],
+    "gamedesc": "Cook pasta dishes! Boil, add sauce, serve with sides in Italian time-management."
+  },
+  {
+    "name": "Papa Louie 1",
+    "image": "papalouie1.png",
+    "url": "Papas-Louie-1",
+    "new": false,
+    "credits": "Developed by Juicy Beast",
+    "tags": [
+      "platformer",
+      "adventure",
+      "singleplayer"
+    ],
+    "gamedesc": "First platforming adventure! Battle food monsters and rescue customers."
+  },
+  {
+    "name": "Papa Louie 2",
+    "image": "papalouie2.png",
+    "url": "Papas-Louie-2",
+    "new": false,
+    "credits": "Developed by Juicy Beast",
+    "tags": [
+      "platformer",
+      "adventure",
+      "singleplayer"
+    ],
+    "gamedesc": "Burger attack! Multiple characters with unique abilities and RPG elements."
+  },
+  {
+    "name": "The Binding of Isaac",
+    "image": "thebindingofissac.png",
+    "url": "The-Binding-Of-Isaac",
+    "new": false,
+    "credits": "Developed by Edmund McMillen",
+    "tags": [
+      "roguelike",
+      "shooter",
+      "singleplayer"
+    ],
+    "status": "buggy",
+    "gamedesc": "Dark roguelike shooter! Random dungeons, bizarre items, disturbing enemies. Deep and endlessly replayable!"
+  },
+  {
+    "name": "Papas Scooperia",
+    "image": "papasscooperia.png",
+    "url": "Papa-Scoop",
+    "new": false,
+    "credits": "Developed by Flipline Studios",
+    "tags": [
+      "simulation",
+      "time-management",
+      "singleplayer"
+    ],
+    "gamedesc": "Ice cream parlor! Scoop and create perfect sundaes in sweet time-management."
+  },
+  {
+    "name": "Bloons Tower Defence 2",
+    "image": "bloons-tower-defence-2.jpg",
+    "url": "Bloons-Tower-Defence-2",
+    "new": false,
+    "credits": "Developed by Ninja Kiwi",
+    "tags": [
+      "tower defense",
+      "strategy",
+      "singleplayer"
+    ],
+    "gamedesc": "Classic Bloons TD sequel! More towers, upgrades, and balloon types."
+  },
+  {
+    "name": "Bloons Tower Defence 3",
+    "image": "bloons-tower-defence-3.jpg",
+    "url": "Bloons-Tower-Defence-3",
+    "new": false,
+    "credits": "Developed by Ninja Kiwi",
+    "tags": [
+      "tower defense",
+      "strategy",
+      "singleplayer"
+    ],
+    "gamedesc": "Even more monkeys and bloons! Special agents, new tracks, deeper strategy."
+  },
+  {
+    "name": "Bloons Tower Defence",
+    "image": "bloons-tower-defence.jpg",
+    "url": "Bloons-Tower-Defence",
+    "new": false,
+    "credits": "Developed by Ninja Kiwi",
+    "tags": [
+      "tower defense",
+      "strategy",
+      "singleplayer"
+    ],
+    "gamedesc": "Original that started the franchise! Simple yet addictive balloon-popping tower defense."
+  },
+  {
+    "name": "Troll Face Quest",
+    "image": "trollface-quest.jpg",
+    "url": "Troll-Face-Quest",
+    "new": false,
+    "credits": "Developed by PPLLAAYY",
+    "tags": [
+      "puzzle",
+      "comedy",
+      "singleplayer"
+    ],
+    "gamedesc": "Ridiculous puzzles! Think absurdly, embrace meme humor, get trolled!"
+  },
+  {
+    "name": "Troll Face Quest 2",
+    "image": "trollface-quest-2.jpg",
+    "url": "Troll-Face-Quest-2",
+    "new": false,
+    "credits": "Developed by PPLLAAYY",
+    "tags": [
+      "puzzle",
+      "comedy",
+      "singleplayer"
+    ],
+    "gamedesc": "More trolling! New scenarios, harder challenges, same absurd humor."
+  },
+  {
+    "name": "Troll Face Quest 3",
+    "image": "trollface-quest-3.jpg",
+    "url": "Troll-Face-Quest-3",
+    "new": false,
+    "credits": "Developed by PPLLAAYY",
+    "tags": [
+      "puzzle",
+      "comedy",
+      "singleplayer"
+    ],
+    "gamedesc": "Trolling continues! Pop culture references and outrageous solutions."
+  },
+  {
+    "name": "Troll Face Quest 4",
+    "image": "trollface-quest-4.jpg",
+    "url": "Troll-Face-Quest-4",
+    "new": false,
+    "credits": "Developed by PPLLAAYY",
+    "tags": [
+      "puzzle",
+      "comedy",
+      "singleplayer"
+    ],
+    "gamedesc": "Get trolled again! Fourth installment with signature absurdist humor."
+  },
+  {
+    "name": "Troll Face Quest 5",
+    "image": "trollface-quest-5.jpg",
+    "url": "Troll-Face-Quest-5",
+    "new": false,
+    "credits": "Developed by PPLLAAYY",
+    "tags": [
+      "puzzle",
+      "comedy",
+      "singleplayer"
+    ],
+    "gamedesc": "Final trollish puzzles! Most ridiculous challenges in series conclusion."
+  },
+  {
+    "name": "This Is The Only Level",
+    "image": "this-is-the-only-level.png",
+    "url": "This-Is-The-Only-Level",
+    "new": false,
+    "credits": "Developed by John Cooney",
+    "tags": [
+      "platformer",
+      "puzzle",
+      "singleplayer"
+    ],
+    "gamedesc": "Same level, 30 different ways! Each replay changes rules creatively with humor."
+  },
+  {
+    "name": "Territory War",
+    "image": "territory-war.jpg",
+    "url": "Territory-War",
+    "new": false,
+    "credits": "Developed by Afro Ninja",
+    "tags": [
+      "strategy",
+      "turn-based",
+      "multiplayer"
+    ],
+    "gamedesc": "Turn-based stick warfare! Control squad, use weapons strategically, physics-based combat."
+  },
+  {
+    "name": "Super Meat Boy",
+    "image": "super-meat-boy.png",
+    "url": "Super-Meat-Boy",
+    "new": false,
+    "credits": "Developed by Team Meat",
+    "tags": [
+      "platformer",
+      "difficult",
+      "singleplayer"
+    ],
+    "gamedesc": "Brutally difficult precision platformer! Instant death, instant respawn, pixel-perfect challenges."
+  },
+  {
+    "name": "Storm The House",
+    "image": "storm-the-house.jpg",
+    "url": "Storm-The-House",
+    "new": false,
+    "credits": "Developed by IvoryDrive",
+    "tags": [
+      "shooter",
+      "defense",
+      "singleplayer"
+    ],
+    "gamedesc": "Defend house from attackers! Shoot enemies, upgrade weapons, addictive defense progression."
+  },
+  {
+    "name": "Storm The House 2",
+    "image": "storm-the-house-2.jpg",
+    "url": "Storm-The-House-2",
+    "new": false,
+    "credits": "Developed by IvoryDrive",
+    "tags": [
+      "shooter",
+      "defense",
+      "singleplayer"
+    ],
+    "gamedesc": "Enhanced defense! Better graphics, more weapons, improved mechanics against overwhelming odds."
+  },
+  {
+    "name": "Stick War 1",
+    "image": "stick-war.jpg",
+    "url": "Stick-War-1",
+    "new": false,
+    "credits": "Developed by Jason Whitham",
+    "tags": [
+      "strategy",
+      "real-time",
+      "singleplayer"
+    ],
+    "gamedesc": "RTS with stick figures! Mine resources, build units, conquer nations with deep strategy."
+  },
+  {
+    "name": "Stick War 2",
+    "image": "stick-war-2.png",
+    "url": "Stick-War-2",
+    "new": false,
+    "credits": "Developed by Jason Whitham",
+    "tags": [
+      "strategy",
+      "real-time",
+      "singleplayer"
+    ],
+    "gamedesc": "Order vs Chaos! New units, abilities, campaign with refined stick figure strategy."
+  },
+  {
+    "name": "Stick RPG",
+    "image": "stick-rpg.jpg",
+    "url": "Stick-RPG",
+    "new": false,
+    "credits": "Developed by XGen Studios",
+    "tags": [
+      "rpg",
+      "simulation",
+      "singleplayer"
+    ],
+    "gamedesc": "Live stick figure life! Work jobs, level stats, make money in open-ended RPG."
+  },
+  {
+    "name": "Stick Madness",
+    "image": "stickmadness.png",
+    "url": "Stick-Madness",
+    "new": false,
+    "credits": "Developed by Jason Whitman",
+    "tags": [
+      "fighting",
+      "action",
+      "singleplayer"
+    ],
+    "gamedesc": "Fast stick combat! Brutal melee and ranged attacks with visceral action."
+  },
+  {
+    "name": "Stick Madness 2",
+    "image": "stickmadness2.png",
+    "url": "Stick-Madness-2",
+    "new": false,
+    "credits": "Developed by Jason Whitman",
+    "tags": [
+      "fighting",
+      "action",
+      "singleplayer"
+    ],
+    "gamedesc": "More intense battles! Enhanced combat, new weapons, tougher enemies."
+  },
+  {
+    "name": "Stick Empires",
+    "image": "stick-empires.png",
+    "url": "Stick-Empires",
+    "new": false,
+    "credits": "Developed by Jason Whitman",
+    "tags": [
+      "strategy",
+      "multiplayer",
+      "real-time"
+    ],
+    "gamedesc": "Massive multiplayer stick RTS! Build armies, research tech, battle players with deep strategy."
+  },
+  {
+    "name": "Shopping Cart Hero",
+    "image": "shopping-cart-hero.jpg",
+    "url": "Shopping-Cart-Hero",
+    "new": false,
+    "credits": "Developed by MonkeyWantBanana",
+    "tags": [
+      "arcade",
+      "launcher",
+      "singleplayer"
+    ],
+    "gamedesc": "Launch yourself in shopping cart! Perform tricks, fly, upgrade cart with addictive gameplay."
+  },
+  {
+    "name": "Shopping Cart Hero 2",
+    "image": "shopping-cart-hero-2.jpg",
+    "url": "Shopping-Cart-Hero-2",
+    "new": false,
+    "credits": "Developed by MonkeyWantBanana",
+    "tags": [
+      "arcade",
+      "launcher",
+      "singleplayer"
+    ],
+    "gamedesc": "Bigger cart jumps! Enhanced launching with new tricks and features."
+  },
+  {
+    "name": "Shopping Cart Hero 3",
+    "image": "shopping-cart-hero-3.jpg",
+    "url": "Shopping-Cart-Hero-3",
+    "new": false,
+    "credits": "Developed by MonkeyWantBanana",
+    "tags": [
+      "arcade",
+      "launcher",
+      "singleplayer"
+    ],
+    "gamedesc": "Ultimate cart trilogy! Maximum jumps, best upgrades, definitive cart launching."
+  },
+  {
+    "name": "Sentry Knight",
+    "image": "sentryknight.png",
+    "url": "Sentry-Knight",
+    "new": false,
+    "credits": "Developed by TylerNG",
+    "tags": [
+      "defense",
+      "rpg",
+      "singleplayer"
+    ],
+    "gamedesc": "Lone knight defense! Shoot arrows, use magic, upgrade abilities with RPG progression."
+  },
+  {
+    "name": "Into Space 1",
+    "image": "intospace1.png",
+    "url": "Into-Space-1",
+    "new": false,
+    "credits": "Developed by Barbarian Games",
+    "tags": [
+      "arcade",
+      "launcher",
+      "singleplayer"
+    ],
+    "gamedesc": "Launch rocket into space! Upgrade ship, reach new heights, explore cosmos."
+  },
+  {
+    "name": "Into Space 2",
+    "image": "intospace2.png",
+    "url": "Into-Space-2",
+    "new": false,
+    "credits": "Developed by Barbarian Games",
+    "tags": [
+      "arcade",
+      "launcher",
+      "singleplayer"
+    ],
+    "gamedesc": "Continue space exploration! More upgrades, new planets, enhanced rocket launching."
+  },
+  {
+    "name": "Into Space 3",
+    "image": "intospace3.png",
+    "url": "Into-Space-3",
+    "new": false,
+    "credits": "Developed by Barbarian Games",
+    "tags": [
+      "arcade",
+      "launcher",
+      "singleplayer"
+    ],
+    "gamedesc": "Ultimate space journey! Biggest rockets, furthest distances, most cosmic adventure."
+  },
+  {
+    "name": "qwop",
+    "image": "qwop.jpg",
+    "url": "qwop",
+    "new": false,
+    "credits": "Developed by Bennett Foddy",
+    "tags": [
+      "sports",
+      "difficult",
+      "singleplayer"
+    ],
+    "gamedesc": "Control individual leg muscles to run! Hilariously difficult track game with physics-based frustration."
+  },
+  {
+    "name": "Pandemic",
+    "image": "pandemic.jpg",
+    "url": "Pandemic",
+    "new": false,
+    "credits": "Developed by Dark Realm Studios",
+    "tags": [
+      "strategy",
+      "simulation",
+      "singleplayer"
+    ],
+    "gamedesc": "Evolve a disease to infect the world! Strategic plague spreading with evolution mechanics."
+  },
+  {
+    "name": "Pandemic 2",
+    "image": "pandemic-2.jpg",
+    "url": "Pandemic-2",
+    "new": false,
+    "credits": "Developed by Dark Realm Studios",
+    "tags": [
+      "strategy",
+      "simulation",
+      "singleplayer"
+    ],
+    "gamedesc": "Enhanced plague evolution! More countries, better mechanics, improved world infection."
+  },
+  {
+    "name": "Madness Project Nexus",
+    "image": "madness-project-nexus.jpg",
+    "url": "Madness-Project-Nexus",
+    "new": false,
+    "credits": "Developed by Krinkels",
+    "tags": [
+      "shooter",
+      "action",
+      "singleplayer"
+    ],
+    "gamedesc": "Intense stick figure combat! Story mode, arena battles, brutal action in Madness universe."
+  },
+  {
+    "name": "Interactive Buddy",
+    "image": "interactive-buddy.png",
+    "url": "Interactive-Buddy",
+    "new": false,
+    "credits": "Developed by shock-value",
+    "tags": [
+      "sandbox",
+      "simulation",
+      "singleplayer"
+    ],
+    "gamedesc": "Interact with virtual buddy! Countless items and interactions for creative experimentation."
+  },
+  {
+    "name": "Infiltrating The Airship",
+    "image": "infiltratingtheairship.png",
+    "url": "Infiltrating-The-Airship",
+    "new": false,
+    "credits": "Developed by Puffballs United",
+    "tags": [
+      "adventure",
+      "comedy",
+      "singleplayer"
+    ],
+    "gamedesc": "Henry Stickmin infiltrates airship! Choose methods with hilarious consequences in choice-driven adventure."
+  },
+  {
+    "name": "Hedgehog Launch",
+    "image": "hedgehoglaunch.png",
+    "url": "Hedgehog-Launch",
+    "new": false,
+    "credits": "Developed by Armor Games",
+    "tags": [
+      "arcade",
+      "launcher",
+      "singleplayer"
+    ],
+    "gamedesc": "Launch hedgehog to space! Bounce, fly, upgrade equipment in charming launcher game."
+  },
+  {
+    "name": "Fleeing The Complex",
+    "image": "fleeingthecomplex.png",
+    "url": "Fleeing-The-Complex",
+    "new": false,
+    "credits": "Developed by Puffballs United",
+    "tags": [
+      "adventure",
+      "comedy",
+      "singleplayer"
+    ],
+    "gamedesc": "Henry Stickmin prison escape! Multiple paths, comedy, and choice consequences."
+  },
+  {
+    "name": "Fat Cat",
+    "image": "fat-cat.png",
+    "url": "Fat-Cat",
+    "new": false,
+    "credits": "Developed by Nitrome",
+    "tags": [
+      "puzzle",
+      "physics",
+      "singleplayer"
+    ],
+    "gamedesc": "Feed the hungry cat! Physics-based puzzles to deliver food to chubby feline."
+  },
+  {
+    "name": "Ducklife",
+    "image": "ducklife.jpg",
+    "url": "Duck-Life",
+    "new": false,
+    "credits": "Developed by Wix Games",
+    "tags": [
+      "simulation",
+      "adventure",
+      "singleplayer"
+    ],
+    "gamedesc": "Train duck for racing! Run, swim, fly training with charming progression."
+  },
+  {
+    "name": "Ducklife 2",
+    "image": "ducklife-2.jpg",
+    "url": "Duck-Life-2",
+    "new": false,
+    "credits": "Developed by Wix Games",
+    "tags": [
+      "simulation",
+      "adventure",
+      "singleplayer"
+    ],
+    "gamedesc": "More duck training! Enhanced mini-games and racing challenges."
+  },
+  {
+    "name": "Ducklife 3",
+    "image": "ducklife-3.png",
+    "url": "Duck-Life-3",
+    "new": false,
+    "credits": "Developed by Wix Games",
+    "tags": [
+      "simulation",
+      "adventure",
+      "singleplayer"
+    ],
+    "gamedesc": "Duck evolution! New training modes, genetic selection, expanded racing."
+  },
+  {
+    "name": "Ducklife 4",
+    "image": "ducklife4.png",
+    "url": "Duck-Life-4",
+    "new": false,
+    "credits": "Developed by Wix Games",
+    "tags": [
+      "simulation",
+      "adventure",
+      "singleplayer"
+    ],
+    "gamedesc": "Train your duck to become a champion racer! Improve abilities through mini-games, compete in races, and explore new areas."
+  },
+  {
+    "name": "Dont Whack Your Boss",
+    "image": "dontwackyourboss.png",
+    "url": "Dont-Whack-Your-Boss",
+    "new": false,
+    "credits": "Developed by Doodie",
+    "tags": [
+      "comedy",
+      "interactive",
+      "singleplayer"
+    ],
+    "gamedesc": "Stress relief! Find creative ways to... express frustration. Dark humor office simulation."
+  },
+  {
+    "name": "Dig To China",
+    "image": "digtochina.png",
+    "url": "Dig-To-China",
+    "new": false,
+    "credits": "Developed by Armor Games",
+    "tags": [
+      "mining",
+      "arcade",
+      "singleplayer"
+    ],
+    "status": "buggy",
+    "gamedesc": "Dig deep underground! Mine resources, upgrade drill, reach incredible depths."
+  },
+  {
+    "name": "Crush The Castle",
+    "image": "crushthecastle.png",
+    "url": "Crush-The-Castle",
+    "new": false,
+    "credits": "Developed by Armor Games",
+    "tags": [
+      "physics",
+      "strategy",
+      "singleplayer"
+    ],
+    "gamedesc": "Destroy castles with trebuchet! Physics-based destruction with strategic projectile launching."
+  },
+  {
+    "name": "Crush The Castle 2",
+    "image": "crushthecastle2.png",
+    "url": "Crush-The-Castle-2",
+    "new": false,
+    "credits": "Developed by Armor Games",
+    "tags": [
+      "physics",
+      "strategy",
+      "singleplayer"
+    ],
+    "gamedesc": "More castle crushing! New projectiles, bigger castles, enhanced destruction."
+  },
+  {
+    "name": "Clicker Heroes",
+    "image": "clickerheroes.png",
+    "url": "Clicker-Heroes",
+    "new": false,
+    "credits": "Developed by Playsaurus",
+    "tags": [
+      "idle",
+      "rpg",
+      "singleplayer"
+    ],
+    "gamedesc": "Click to defeat monsters! Hire heroes, ascend for bonuses, endless idle RPG progression."
+  },
+  {
+    "name": "Canabalt",
+    "image": "canabalt.png",
+    "url": "Canabalt",
+    "new": false,
+    "credits": "Developed by Adam Saltsman",
+    "tags": [
+      "runner",
+      "arcade",
+      "singleplayer"
+    ],
+    "gamedesc": "Endless rooftop running! Jump between buildings in minimalist endless runner that defined the genre."
+  },
+  {
+    "name": "Cactus McCoy 2",
+    "image": "cactusmccoy2.png",
+    "url": "Cactus-McCoy-2",
+    "new": false,
+    "credits": "Developed by Flipline",
+    "tags": [
+      "platformer",
+      "action",
+      "singleplayer"
+    ],
+    "gamedesc": "Cactus adventure continues! Beat enemies, collect treasures, use various weapons in platforming action."
+  },
+  {
+    "name": "Age Of War",
+    "image": "ageofwar.png",
+    "url": "Age-Of-War",
+    "new": false,
+    "credits": "Developed by Louissi",
+    "tags": [
+      "strategy",
+      "defense",
+      "singleplayer"
+    ],
+    "gamedesc": "Evolve through ages while defending base! Build units from cavemen to future soldiers."
+  },
+  {
+    "name": "Age Of War 2",
+    "image": "age-of-war-2.jpg",
+    "url": "Age-Of-War-2",
+    "new": false,
+    "credits": "Developed by Louissi",
+    "tags": [
+      "strategy",
+      "defense",
+      "singleplayer"
+    ],
+    "gamedesc": "Enhanced age evolution! More eras, better graphics, improved strategy defense."
+  },
+  {
+    "name": "Achievement Unlocked",
+    "image": "achievementunlocked.png",
+    "url": "Achievement-Unlocked",
+    "new": false,
+    "credits": "Developed by John Cooney",
+    "tags": [
+      "platformer",
+      "comedy",
+      "singleplayer"
+    ],
+    "gamedesc": "Get achievements for everything! Meta-game about achievements themselves with humor."
+  },
+  {
+    "name": "Achievement Unlocked 2",
+    "image": "achievementunlocked2.png",
+    "url": "Achievement-Unlocked-2",
+    "new": false,
+    "credits": "Developed by John Cooney",
+    "tags": [
+      "platformer",
+      "comedy",
+      "singleplayer"
+    ],
+    "gamedesc": "More achievement madness! Even more ridiculous achievements to unlock."
+  },
+  {
+    "name": "Achievement Unlocked 3",
+    "image": "achievementunlocked3.png",
+    "url": "Achievement-Unlocked-3",
+    "new": false,
+    "credits": "Developed by John Cooney",
+    "tags": [
+      "platformer",
+      "comedy",
+      "singleplayer"
+    ],
+    "gamedesc": "Ultimate achievement game! Final installment with most meta achievements ever."
+  },
+  {
+    "name": "Mini Metro",
+    "image": "minimetro.png",
+    "url": "Mini-Metro",
+    "new": false,
+    "credits": "Developed by unkown",
+    "tags": [
+      "puzzle",
+      "strategy",
+      "singleplayer"
+    ],
+    "gamedesc": "Build subway system! Connect stations efficiently in minimalist transit puzzle."
+  },
+  {
+    "name": "Awesome Cars",
+    "image": "awesome-cars.png",
+    "url": "Awesome-Cars",
+    "new": false,
+    "credits": "Developed by Gametornado",
+    "tags": [
+      "racing",
+      "action",
+      "singleplayer"
+    ],
+    "gamedesc": "Fast-paced car combat! Race and battle with weapons in vehicular action."
+  },
+  {
+    "name": "Bartender The Right Mix",
+    "image": "bartender-the-right-mix.jpg",
+    "url": "Bartender-The-Right-Mix",
+    "new": false,
+    "credits": "Developed by Liquid Night",
+    "tags": [
+      "simulation",
+      "puzzle",
+      "singleplayer"
+    ],
+    "gamedesc": "Mix perfect cocktails! Combine ingredients correctly to satisfy customers in bartending simulation."
+  },
+  {
+    "name": "Bejeweled",
+    "image": "bejeweled.jpg",
+    "url": "Bejeweled",
+    "new": false,
+    "credits": "Developed by Popcap Games",
+    "tags": [
+      "puzzle",
+      "match-3",
+      "singleplayer"
+    ],
+    "gamedesc": "Match gems to clear board! Classic match-3 puzzle that defined the genre."
+  },
+  {
+    "name": "Bejeweled 2",
+    "image": "bejeweled-2.png",
+    "url": "Bejeweled-2",
+    "new": false,
+    "credits": "Developed by Popcap Games",
+    "tags": [
+      "puzzle",
+      "match-3",
+      "singleplayer"
+    ],
+    "gamedesc": "Enhanced gem matching! More modes, better graphics, refined classic puzzle."
+  },
+  {
+    "name": "Billards",
+    "image": "billards.png",
+    "url": "Billards",
+    "new": false,
+    "credits": "Developed by Unknown developer",
+    "tags": [
+      "sports",
+      "simulation",
+      "singleplayer"
+    ],
+    "gamedesc": "Classic pool/billiards! Sink balls with realistic physics and strategic shot planning."
+  },
+  {
+    "name": "Bloxorz",
+    "image": "bloxorz.jpg",
+    "url": "Bloxorz",
+    "new": false,
+    "credits": "Developed by Damien Clarke",
+    "tags": [
+      "puzzle",
+      "logic",
+      "singleplayer"
+    ],
+    "gamedesc": "Roll block into hole! Mind-bending spatial puzzle with clever level design."
+  },
+  {
+    "name": "Cooking Mama",
+    "image": "cooking.mama.png",
+    "url": "Cooking-Mama",
+    "new": false,
+    "credits": "Developed by PETA",
+    "tags": [
+      "simulation",
+      "cooking",
+      "singleplayer"
+    ],
+    "gamedesc": "Cook recipes with Mama! Follow instructions, use timing, create delicious dishes."
+  },
+  {
+    "name": "Crash Bandicoot Flash",
+    "image": "crash-bandicoot.jpg",
+    "url": "Crash-Bandicoot",
+    "new": false,
+    "credits": "Developed by gembut and hutcoa7",
+    "tags": [
+      "platformer",
+      "adventure",
+      "singleplayer"
+    ],
+    "gamedesc": "Fan-made Crash adventure! Spin, jump, collect fruit in Flash recreation."
+  },
+  {
+    "name": "Doodle Jump",
+    "image": "doodle-jump.png",
+    "url": "Doodle-Jump",
+    "new": false,
+    "credits": "Developed by gembut and hutcoa7",
+    "tags": [
+      "arcade",
+      "platformer",
+      "singleplayer"
+    ],
+    "gamedesc": "Jump endlessly upward! Tilt and shoot in addictive vertical platformer."
+  },
+  {
+    "name": "Earn to Die",
+    "image": "earn-to-die.png",
+    "url": "Earn-to-Die",
+    "new": false,
+    "credits": "Developed by Toffee Games",
+    "tags": [
+      "driving",
+      "zombie",
+      "singleplayer"
+    ],
+    "gamedesc": "Drive through zombie apocalypse! Upgrade vehicle, smash undead, reach escape."
+  },
+  {
+    "name": "Earn to Die 2",
+    "image": "earn-to-die-2.jpg",
+    "url": "Earn-to-Die-2",
+    "new": false,
+    "credits": "Developed by Toffee Games",
+    "tags": [
+      "driving",
+      "zombie",
+      "singleplayer"
+    ],
+    "gamedesc": "Continue zombie driving! More vehicles, bigger hordes, enhanced smashing."
+  },
+  {
+    "name": "Earn to Die 2 Exodus",
+    "image": "earn-to-die-2-exodus.jpg",
+    "url": "Earn-to-Die-2-Exodus",
+    "new": false,
+    "credits": "Developed by Toffee Games",
+    "tags": [
+      "driving",
+      "zombie",
+      "singleplayer"
+    ],
+    "gamedesc": "Final exodus from zombies! Ultimate vehicles, longest journey, most zombies."
+  },
+  {
+    "name": "Factory Balls",
+    "image": "factory-balls.jpg",
+    "url": "Factory-Balls",
+    "new": false,
+    "credits": "Developed by Bart Bonte",
+    "tags": [
+      "puzzle",
+      "logic",
+      "singleplayer"
+    ],
+    "gamedesc": "Paint balls to match pattern! Use tools in correct order for logical puzzle."
+  },
+  {
+    "name": "Factory Balls 2",
+    "image": "factory-balls-2.png",
+    "url": "Factory-Balls-2",
+    "new": false,
+    "credits": "Developed by Bart Bonte",
+    "tags": [
+      "puzzle",
+      "logic",
+      "singleplayer"
+    ],
+    "gamedesc": "More ball painting puzzles! New tools, harder patterns, expanded logic challenges."
+  },
+  {
+    "name": "Factory Balls 3",
+    "image": "factory-balls-3.png",
+    "url": "Factory-Balls-3",
+    "new": false,
+    "credits": "Developed by Bart Bonte",
+    "tags": [
+      "puzzle",
+      "logic",
+      "singleplayer"
+    ],
+    "gamedesc": "Third ball factory! Even more complex patterns and creative solutions."
+  },
+  {
+    "name": "Factory Balls 4",
+    "image": "factory-balls-4.png",
+    "url": "Factory-Balls-4",
+    "new": false,
+    "credits": "Developed by Bart Bonte",
+    "tags": [
+      "puzzle",
+      "logic",
+      "singleplayer"
+    ],
+    "gamedesc": "Ultimate factory puzzles! Most challenging patterns in definitive installment."
+  },
+  {
+    "name": "Fancy Pants Adventures",
+    "image": "fancy-pants-adventures.jpg",
+    "url": "Fancy-Pants-Adventures",
+    "new": false,
+    "credits": "Developed by Brad Borne",
+    "tags": [
+      "platformer",
+      "adventure",
+      "singleplayer"
+    ],
+    "gamedesc": "Fluid stick figure platforming! Run, slide, jump through hand-drawn worlds with style."
+  },
+  {
+    "name": "Fancy Pants Adventures 2",
+    "image": "fancy-pants-adventures.png",
+    "url": "Fancy-Pants-Adventures",
+    "new": false,
+    "credits": "Developed by Brad Borne",
+    "tags": [
+      "platformer",
+      "adventure",
+      "singleplayer"
+    ],
+    "gamedesc": "More fancy adventures! Expanded levels, new moves, continued fluid animation."
+  },
+  {
+    "name": "Fancy Pants Adventures 3",
+    "image": "fancy-pants-adventures-3.jpg",
+    "url": "Fancy-Pants-Adventures-3",
+    "new": false,
+    "credits": "Developed by Brad Borne",
+    "tags": [
+      "platformer",
+      "adventure",
+      "singleplayer"
+    ],
+    "gamedesc": "Biggest fancy adventure! Most content, best animation, ultimate stick platformer."
+  },
+  {
+    "name": "Fireboy and Watergirl",
+    "image": "fireboy-and-watergirl-1.jpg",
+    "url": "Fireboy-and-Watergirl",
+    "new": false,
+    "credits": "Developed by Oslo Albet",
+    "tags": [
+      "puzzle",
+      "co-op",
+      "platformer",
+      "multiplayer"
+    ],
+    "gamedesc": "Cooperative puzzle platformer! Control elemental characters together to solve temple challenges."
+  },
+  {
+    "name": "Fireboy and Watergirl 2",
+    "image": "fireboy-and-watergirl-2.jpg",
+    "url": "Fireboy-and-Watergirl-2",
+    "new": false,
+    "credits": "Developed by Oslo Albet",
+    "tags": [
+      "puzzle",
+      "co-op",
+      "platformer",
+      "multiplayer"
+    ],
+    "gamedesc": "Light Temple adventure! Mirrors, beams, and teamwork in elemental puzzle sequel."
+  },
+  {
+    "name": "Fireboy and Watergirl 3",
+    "image": "fireboy-and-watergirl-3.jpg",
+    "url": "Fireboy-and-Watergirl-3",
+    "new": false,
+    "credits": "Developed by Oslo Albet",
+    "tags": [
+      "puzzle",
+      "co-op",
+      "platformer",
+      "multiplayer"
+    ],
+    "gamedesc": "Ice Temple exploration! Slippery surfaces and frozen challenges in cooperative puzzle."
+  },
+  {
+    "name": "Flash Flight Simulator",
+    "image": "flash-flight-simulator.jpg",
+    "url": "Flash-Flight-Simulator-1",
+    "new": false,
+    "credits": "Developed by Oslo Albet",
+    "tags": [
+      "simulation",
+      "flight",
+      "singleplayer"
+    ],
+    "gamedesc": "Realistic aircraft control! Authentic physics, takeoffs, landings, and missions."
+  },
+  {
+    "name": "Gunblood",
+    "image": "gunblood.png",
+    "url": "Gunblood",
+    "new": false,
+    "credits": "Developed by Wolf Games",
+    "tags": [
+      "shooter",
+      "western",
+      "singleplayer"
+    ],
+    "gamedesc": "Wild West quick-draw duels! Speed and accuracy in classic standoff shooting."
+  },
+  {
+    "name": "Johnny Upgrade",
+    "image": "johnny-upgrade.png",
+    "url": "Johnny-Upgrade",
+    "new": false,
+    "credits": "Developed by Gameshot",
+    "tags": [
+      "platformer",
+      "arcade",
+      "singleplayer"
+    ],
+    "gamedesc": "Start with nothing, upgrade everything! Unique platformer with progressive ability purchases."
+  },
+  {
+    "name": "Mutilate a Doll 2",
+    "image": "mutilate-a-doll-2.jpg",
+    "url": "Mutilate-a-Doll-Two",
+    "new": false,
+    "credits": "Developed by Rava Games",
+    "tags": [
+      "sandbox",
+      "physics",
+      "singleplayer"
+    ],
+    "gamedesc": "Physics sandbox destruction! Spawn ragdolls, use weapons, experiment with realistic physics."
+  },
+  {
+    "name": "Pico vs Uberkids",
+    "image": "pico-vs-uberkids.jpg",
+    "url": "Pico-vs-uberkids",
+    "new": false,
+    "credits": "Developed by Tom Fulp",
+    "tags": [
+      "action",
+      "shooter",
+      "singleplayer"
+    ],
+    "gamedesc": "Pico battles Uberkids! Fast action shooting from Newgrounds creator Tom Fulp."
+  },
+  {
+    "name": "Picos School",
+    "image": "picos-school.jpg",
+    "url": "Picos-school",
+    "new": false,
+    "credits": "Developed by Tom Fulp",
+    "tags": [
+      "adventure",
+      "shooter",
+      "singleplayer"
+    ],
+    "gamedesc": "Legendary Newgrounds classic! Point-and-click adventure with dark humor and multiple endings."
+  },
+  {
+    "name": "Picos School 2",
+    "image": "picos-school-2.png",
+    "url": "Picos-school-2",
+    "new": false,
+    "credits": "Developed by Tom Fulp",
+    "tags": [
+      "adventure",
+      "shooter",
+      "singleplayer"
+    ],
+    "gamedesc": "Pico's adventure continues! More action, new threats, expanded storyline."
+  },
+  {
+    "name": "Red Ball",
+    "image": "red-ball.png",
+    "url": "Red-ball",
+    "new": false,
+    "credits": "Developed by Eugene Fedoseev",
+    "tags": [
+      "platformer",
+      "puzzle",
+      "singleplayer"
+    ],
+    "gamedesc": "Roll and jump through levels! Physics-based platforming with charming red ball."
+  },
+  {
+    "name": "Red Ball 2",
+    "image": "red-ball-2.jpg",
+    "url": "Red-ball-2",
+    "new": false,
+    "credits": "Developed by Eugene Fedoseev",
+    "tags": [
+      "platformer",
+      "puzzle",
+      "singleplayer"
+    ],
+    "gamedesc": "Red ball returns! New levels, fresh challenges, same fun physics."
+  },
+  {
+    "name": "Red Ball 3",
+    "image": "red-ball-3.jpg",
+    "url": "Red-ball-3",
+    "new": false,
+    "credits": "Developed by Eugene Fedoseev",
+    "tags": [
+      "platformer",
+      "puzzle",
+      "singleplayer"
+    ],
+    "gamedesc": "More rolling fun! New environments, tougher puzzles, refined gameplay."
+  },
+  {
+    "name": "Red Ball 4",
+    "image": "red-ball-4.jpg",
+    "url": "Red-ball-4",
+    "new": false,
+    "credits": "Developed by Eugene Fedoseev",
+    "tags": [
+      "platformer",
+      "puzzle",
+      "singleplayer"
+    ],
+    "gamedesc": "Save world from evil squares! Most polished entry with best graphics and level design."
+  },
+  {
+    "name": "Road of the Dead",
+    "image": "road-of-the-dead.jpg",
+    "url": "Road-of-the-dead",
+    "new": false,
+    "credits": "Developed by Evil Dog Games",
+    "tags": [
+      "action",
+      "driving",
+      "zombie"
+    ],
+    "gamedesc": "Drive through zombie apocalypse! Plow zombies, shoot from window, escape quarantine."
+  },
+  {
+    "name": "Road of the Dead 2",
+    "image": "road-of-the-dead-2.png",
+    "url": "Road-of-the-Dead-2",
+    "new": false,
+    "credits": "Developed by Evil Dog Games",
+    "tags": [
+      "action",
+      "driving",
+      "zombie"
+    ],
+    "gamedesc": "Zombie highway sequel! Bigger hordes, more vehicles, enhanced action."
+  },
+  {
+    "name": "Run",
+    "image": "run.png",
+    "url": "Run",
+    "new": false,
+    "credits": "Developed by Player 03",
+    "tags": [
+      "platformer",
+      "runner",
+      "singleplayer"
+    ],
+    "gamedesc": "Defy gravity in space tunnel! Rotate world, avoid gaps, endless running challenge."
+  },
+  {
+    "name": "Run 2",
+    "image": "run-2.jpg",
+    "url": "Run-2",
+    "new": false,
+    "credits": "Developed by Player 03",
+    "tags": [
+      "platformer",
+      "runner",
+      "singleplayer"
+    ],
+    "gamedesc": "Gravity-defying sequel! Multiple characters, complex tunnels, enhanced wall-running."
+  },
+  {
+    "name": "Run 3",
+    "image": "run-3.jpg",
+    "url": "Run-3",
+    "new": false,
+    "credits": "Developed by Player 03",
+    "tags": [
+      "platformer",
+      "runner",
+      "singleplayer"
+    ],
+    "gamedesc": "Infinite tunnel running! Multiple characters, hundreds of levels, and gravity-defying gameplay."
+  },
+  {
+    "name": "Sniper Assassin",
+    "image": "sniper-assassin.jpg",
+    "url": "Sniper-Assassin",
+    "new": false,
+    "credits": "Developed by Ultimate Flash Archive",
+    "tags": [
+      "shooter",
+      "puzzle",
+      "singleplayer"
+    ],
+    "gamedesc": "Professional hitman contracts! Observe carefully, eliminate targets without civilian casualties."
+  },
+  {
+    "name": "Sniper Assassin 2",
+    "image": "sniper-assassin-2.png",
+    "url": "Sniper-assassin-2",
+    "new": false,
+    "credits": "Developed by Ultimate Flash Archive",
+    "tags": [
+      "shooter",
+      "puzzle",
+      "singleplayer"
+    ],
+    "gamedesc": "More sniper missions! New targets, complex scenarios, detective work and sharpshooting."
+  },
+  {
+    "name": "Sniper Assassin 3",
+    "image": "sniper-assassin.jpg",
+    "url": "Sniper-assassin-3",
+    "new": false,
+    "credits": "Developed by Ultimate Flash Archive",
+    "tags": [
+      "shooter",
+      "puzzle",
+      "singleplayer"
+    ],
+    "gamedesc": "Trilogy concludes! Most challenging contracts requiring flawless execution."
+  },
+  {
+    "name": "Sniper Assassin 4",
+    "image": "sniper-assassin-5.jpg",
+    "url": "Sniper-Assassin-4",
+    "new": false,
+    "credits": "Developed by Ultimate Flash Archive",
+    "tags": [
+      "shooter",
+      "puzzle",
+      "singleplayer"
+    ],
+    "gamedesc": "Beyond trilogy! Enhanced mechanics, new scenarios, deadly missions."
+  },
+  {
+    "name": "Sniper Assassin 5",
+    "image": "sniper-assassin-5.jpg",
+    "url": "Sniper-Assassin-5",
+    "new": false,
+    "credits": "Developed by Ultimate Flash Archive",
+    "tags": [
+      "shooter",
+      "puzzle",
+      "singleplayer"
+    ],
+    "gamedesc": "Ultimate sniper challenge! Most complex targets, highest stakes, perfect execution required."
+  },
+  {
+    "name": "Toss the Turtle",
+    "image": "toss-the-turtle.jpg",
+    "url": "Toss-the-turtle",
+    "new": false,
+    "credits": "Developed by GonzoSSM",
+    "tags": [
+      "arcade",
+      "launcher",
+      "singleplayer"
+    ],
+    "gamedesc": "Launch turtle with cannons and bombs! Explosive launcher with humorous upgrade system."
+  },
+  {
+    "name": "Unfair Mario",
+    "image": "unfair-mario.jpg",
+    "url": "Unfair-mario",
+    "new": false,
+    "credits": "Developed by Unknown",
+    "tags": [
+      "platformer",
+      "rage",
+      "singleplayer"
+    ],
+    "gamedesc": "Looks like Mario, plays nothing like it! Hidden traps, invisible blocks, rage-inducing parody."
+  },
+  {
+    "name": "Bitlife 2",
+    "image": "unfair-mario.jpg",
+    "url": "Bitlife-2",
+    "new": false,
+    "credits": "Developed by good question",
+    "tags": [
+      "simulation",
+      "text-based",
+      "singleplayer"
+    ],
+    "gamedesc": "Virtual life sequel! New scenarios, expanded features, more life paths to explore."
+  },
+  {
+    "name": "Jacksmith",
+    "image": "jacksmith.jpg",
+    "url": "Jacksmith",
+    "new": false,
+    "credits": "Developed by Flipline Studios",
+    "tags": [
+      "strategy",
+      "crafting",
+      "singleplayer"
+    ],
+    "gamedesc": "Donkey blacksmith! Forge weapons, send warriors to battle, unique crafting-strategy blend."
+  }
+]
