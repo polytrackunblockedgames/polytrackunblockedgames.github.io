@@ -1,4 +1,23 @@
 User-agent: *
 Allow: /
+Crawl-delay: 1
 
+# Block assets that don't need indexing
+Disallow: /assets/
+Disallow: /*.json$
+
+# Sitemap
 Sitemap: https://polytrackunblockedgames.github.io/sitemap.xml
+
+# Major Search Engines
+User-agent: Googlebot
+Allow: /
+Crawl-delay: 0
+
+User-agent: Bingbot
+Allow: /
+Crawl-delay: 1
+
+User-agent: Slurp
+Allow: /
+Crawl-delay: 1
